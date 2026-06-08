@@ -1647,46 +1647,46 @@ body {
     color-scheme: dark;
 
     /* Grayscale */
-    --color-d-gray-10: hsla(32, 48%, 85%, 1);
-    --color-d-gray-20: hsla(34, 39%, 74%, 1);
-    --color-d-gray-30: hsla(34, 31%, 68%, 1);
-    --color-d-gray-40: hsla(35, 27%, 55%, 1);
-    --color-d-gray-50: hsla(34, 24%, 46%, 1);
-    --color-d-gray-60: hsla(33, 27%, 33%, 1);
-    --color-d-gray-70: hsla(31, 27%, 25%, 1);
-    --color-d-gray-80: hsla(28, 22%, 19%, 1);
-    --color-d-gray-90: hsla(33, 20%, 17%, 1);
-    --color-d-gray-100: hsla(30, 19%, 15%, 1);
-    --color-d-gray-110: hsla(30, 17%, 14%, 1);
-    --color-d-gray-120: hsla(29, 16%, 13%, 1);
-    --color-d-gray-130: hsla(24, 18%, 11%, 1);
-    --color-d-gray-140: hsla(32, 21%, 9%, 1);
+    --color-d-gray-10: hsla(40, 20%, 88%, 1);
+    --color-d-gray-20: hsla(40, 12%, 80%, 1);
+    --color-d-gray-30: hsla(40, 8%, 70%, 1);
+    --color-d-gray-40: hsla(40, 5%, 60%, 1);
+    --color-d-gray-50: hsla(40, 5%, 50%, 1);
+    --color-d-gray-60: hsla(220, 5%, 40%, 1);
+    --color-d-gray-70: hsla(220, 8%, 32%, 1);
+    --color-d-gray-80: hsla(220, 10%, 25%, 1);
+    --color-d-gray-90: hsla(220, 12%, 20%, 1);
+    --color-d-gray-100: hsla(220, 14%, 16%, 1);
+    --color-d-gray-110: hsla(220, 16%, 13%, 1);
+    --color-d-gray-120: hsla(220, 18%, 10%, 1);
+    --color-d-gray-130: hsla(220, 20%, 7%, 1);
+    --color-d-gray-140: hsla(220, 18%, 5%, 1);
 
-    --color-d-alpha-gray: hsla(34, 24%, 40%, 0.2);
+    --color-d-alpha-gray: hsla(220, 5%, 40%, 0.2);
 
     /* Red */
-    --color-d-red-10: hsla(5, 94%, 73%, 1);
-    --color-d-red-20: hsla(4, 91%, 67%, 1);
-    --color-d-red-30: hsla(4, 88%, 61%, 1);
-    --color-d-red-40: hsla(2, 75%, 52%, 1);
+    --color-d-red-10: hsla(8, 50%, 73%, 1);
+    --color-d-red-20: hsla(6, 48%, 65%, 1);
+    --color-d-red-30: hsla(4, 48%, 57%, 1);
+    --color-d-red-40: hsla(2, 50%, 47%, 1);
 
-    --color-d-alpha-red: hsla(350, 84%, 63%, 0.2);
+    --color-d-alpha-red: hsla(6, 50%, 60%, 0.2);
 
     /* Orange */
-    --color-d-orange-10: hsla(26, 85%, 58%, 1);
-    --color-d-orange-20: hsla(24, 84%, 50%, 1);
-    --color-d-orange-30: hsla(22, 82%, 47%, 1);
-    --color-d-orange-40: hsla(19, 81%, 41%, 1);
+    --color-d-orange-10: hsla(26, 50%, 58%, 1);
+    --color-d-orange-20: hsla(24, 50%, 50%, 1);
+    --color-d-orange-30: hsla(22, 50%, 47%, 1);
+    --color-d-orange-40: hsla(19, 50%, 41%, 1);
 
-    --color-d-alpha-orange: hsla(27, 100%, 50%, 0.2);
+    --color-d-alpha-orange: hsla(24, 50%, 50%, 0.2);
 
     /* Yellow */
-    --color-d-yellow-10: hsla(43, 69%, 63%, 1);
-    --color-d-yellow-20: hsla(42, 79%, 51%, 1);
-    --color-d-yellow-30: hsla(40, 78%, 48%, 1);
-    --color-d-yellow-40: hsla(38, 76%, 42%, 1);
+    --color-d-yellow-10: hsla(43, 45%, 63%, 1);
+    --color-d-yellow-20: hsla(42, 50%, 51%, 1);
+    --color-d-yellow-30: hsla(40, 50%, 48%, 1);
+    --color-d-yellow-40: hsla(38, 50%, 42%, 1);
 
-    --color-d-alpha-yellow: hsla(44, 100%, 50%, 0.2);
+    --color-d-alpha-yellow: hsla(42, 55%, 50%, 0.2);
 
     /* Green */
     --color-d-green-10: hsla(152, 51%, 54%, 1);
@@ -1759,8 +1759,8 @@ body {
     --interactive-accent-hover: var(--color-accent-2);
 
     /* Alternating Colors */
-    --color-gray-rgb: 166, 150, 142;
-    --color-gray: rgb(166, 150, 141);
+    --color-gray-rgb: 100, 106, 115;
+    --color-gray: hsl(220, 7%, 42%);
 
     --color-red-rgb: 228, 87, 78;
     --color-red: rgb(192, 78, 78);
